@@ -9,8 +9,6 @@
         Title="MainWindow" Height="350" Width="525">
   <Grid>
 
-    
-
       <TreeView x:Name="FolderView">
           <TreeView.Resources>
               <Style TargetType="{x:Type TreeViewItem}" >
