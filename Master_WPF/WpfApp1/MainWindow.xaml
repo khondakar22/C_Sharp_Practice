@@ -12,4 +12,16 @@
       </Button>
        
     </Grid>-->
+
+    <StackPanel>
+        <TextBlock HorizontalAlignment="Center" Margin="20"> Hello World</TextBlock>
+
+        <ListBox Height="100" Width="100">
+            <ListBoxItem Content="Item 1"></ListBoxItem>
+            <ListBoxItem Content="Item 2"></ListBoxItem>
+            <ListBoxItem Content="Item 3"></ListBoxItem>
+        </ListBox>
+
+        <Button Content="Click me" Click="ButtonBase_OnClick" Margin="20"></Button>
+    </StackPanel>
 </Window>

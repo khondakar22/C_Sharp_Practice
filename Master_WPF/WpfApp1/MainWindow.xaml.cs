@@ -23,32 +23,11 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
+        }
 
-            Grid grid = new Grid();
-            this.Content = grid;
-            
-            Button btn = new Button();
-            btn.FontSize = 26;
-            
-            WrapPanel wrapPanel = new WrapPanel();
-            TextBlock txt1 = new TextBlock();
-            txt1.Text = "Multi";
-            txt1.Foreground = Brushes.Blue;
-            wrapPanel.Children.Add(txt1);
-
-            txt1 = new TextBlock();
-            txt1.Text = "Color";
-            txt1.Foreground = Brushes.Red;
-            wrapPanel.Children.Add(txt1);
-
-            txt1 = new TextBlock();
-            txt1.Text = "Button";
-            txt1.Foreground = Brushes.Wheat;
-            wrapPanel.Children.Add(txt1);
-
-
-            btn.Content = wrapPanel;
-            grid.Children.Add(btn);
+        private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Thanks for clicking me!");
         }
     }
 }

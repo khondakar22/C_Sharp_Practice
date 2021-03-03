@@ -1,0 +1,6 @@
+C:\newWorkSpace2020\C_Sharp_Practice\ExceptionDemo\ExceptionDemo\ExceptionsLibrary\bin\Debug\ExceptionsLibrary.dll
+C:\newWorkSpace2020\C_Sharp_Practice\ExceptionDemo\ExceptionDemo\ExceptionsLibrary\bin\Debug\ExceptionsLibrary.pdb
+C:\newWorkSpace2020\C_Sharp_Practice\ExceptionDemo\ExceptionDemo\ExceptionsLibrary\obj\Debug\ExceptionsLibrary.csprojAssemblyReference.cache
+C:\newWorkSpace2020\C_Sharp_Practice\ExceptionDemo\ExceptionDemo\ExceptionsLibrary\obj\Debug\ExceptionsLibrary.csproj.CoreCompileInputs.cache
+C:\newWorkSpace2020\C_Sharp_Practice\ExceptionDemo\ExceptionDemo\ExceptionsLibrary\obj\Debug\ExceptionsLibrary.dll
+C:\newWorkSpace2020\C_Sharp_Practice\ExceptionDemo\ExceptionDemo\ExceptionsLibrary\obj\Debug\ExceptionsLibrary.pdb

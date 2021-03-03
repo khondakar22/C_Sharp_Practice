@@ -1,0 +1,10 @@
+C:\newWorkSpace2020\C_Sharp_Practice\ExceptionDemo\ExceptionDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\newWorkSpace2020\C_Sharp_Practice\ExceptionDemo\ExceptionDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\newWorkSpace2020\C_Sharp_Practice\ExceptionDemo\ExceptionDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\newWorkSpace2020\C_Sharp_Practice\ExceptionDemo\ExceptionDemo\ConsoleUI\bin\Debug\ExceptionsLibrary.dll
+C:\newWorkSpace2020\C_Sharp_Practice\ExceptionDemo\ExceptionDemo\ConsoleUI\bin\Debug\ExceptionsLibrary.pdb
+C:\newWorkSpace2020\C_Sharp_Practice\ExceptionDemo\ExceptionDemo\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\newWorkSpace2020\C_Sharp_Practice\ExceptionDemo\ExceptionDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\newWorkSpace2020\C_Sharp_Practice\ExceptionDemo\ExceptionDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\newWorkSpace2020\C_Sharp_Practice\ExceptionDemo\ExceptionDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\newWorkSpace2020\C_Sharp_Practice\ExceptionDemo\ExceptionDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
